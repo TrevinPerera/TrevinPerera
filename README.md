@@ -1,4 +1,4 @@
-# ⚡ Trevin Imash | Robotics & AI Engineer
+#  Trevin Imash | Robotics & AI Engineer
 
 <div align="center">
 
