@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:090979,100:00D4FF&height=220&section=header&text=TREVIN%20IMASH&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Engineering%20Intelligence%20Into%20Reality&descAlignY=58&descSize=17" width="100%" alt="Trevin Imash profile banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:090979,100:00D4FF&height=220&section=header&text=TREVIN%20IMASH&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Turning%20Ideas%20Into%20Reality&descAlignY=58&descSize=17" width="100%" alt="Trevin Imash profile banner"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Robotics+%26+AI+Engineer+in+Progress;Embedded+Systems+Developer;Building+Intelligent+Machines;Exploring+Autonomous+Robotics;Turning+Ideas+Into+Real+Products" alt="Animated introduction"/>
 
