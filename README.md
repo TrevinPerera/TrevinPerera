@@ -241,41 +241,9 @@ I also enjoy exploring how embedded intelligence, sensor fusion, and mechanical 
 
 ---
 
-## `06` — ENGINEERING WORKFLOW
 
-```mermaid
-flowchart TD
-    A["Identify a Real-World Problem"] --> B["Research & System Design"]
-    B --> C["Prototype Hardware and Software"]
-    C --> D["Simulate & Test"]
-    D --> E{"Does It Work?"}
-    E -- No --> F["Debug & Improve"]
-    F --> C
-    E -- Yes --> G["Document & Optimize"]
-    G --> H["Build the Next Iteration"]
 
-    style A fill:#102A43,stroke:#00D4FF,color:#FFFFFF
-    style B fill:#102A43,stroke:#00D4FF,color:#FFFFFF
-    style C fill:#102A43,stroke:#00D4FF,color:#FFFFFF
-    style D fill:#102A43,stroke:#00D4FF,color:#FFFFFF
-    style E fill:#183153,stroke:#00D4FF,color:#FFFFFF
-    style F fill:#183153,stroke:#00D4FF,color:#FFFFFF
-    style G fill:#102A43,stroke:#00D4FF,color:#FFFFFF
-    style H fill:#102A43,stroke:#00D4FF,color:#FFFFFF
-```
-
-My approach to engineering is built around practical experimentation:
-
-- **Understand:** Identify the problem and study the underlying principles.
-- **Design:** Develop the architecture, interfaces, and implementation plan.
-- **Build:** Implement the hardware and software components.
-- **Test:** Validate functionality through simulation and physical experiments.
-- **Improve:** Analyze failures, optimize performance, and refine the design.
-- **Document:** Make the solution understandable, reproducible, and maintainable.
-
----
-
-## `07` — DEVELOPMENT MINDSET
+## `06` — DEVELOPMENT MINDSET
 
 ```yaml
 identity: Robotics and AI Engineer in Progress
@@ -306,7 +274,7 @@ long_term_goal: >
 
 ---
 
-## `08` — LET'S CONNECT
+## `07` — LET'S CONNECT
 
 I'm always interested in connecting with engineers, developers, researchers, and makers who are passionate about robotics, AI, electronics, and innovative technology.
 
